@@ -92,6 +92,8 @@ Run the pipeline on a shelf image:
 
 ```bash
 python src/main.py --image data/img_1.jpg
+python src/main.py --image data/img_2.jpg
+python src/main.py --image data/img_3.jpg
 ```
 
 ---
