@@ -3,6 +3,8 @@ outputs/
 *.jpeg
 *.png
 *.json
+__pycache__/
+*.py[cod]
 # outputs/
 # *.jpg
 # *.json
