@@ -1,0 +1,8 @@
+outputs/
+*.jpg
+*.jpeg
+*.png
+*.json
+# outputs/
+# *.jpg
+# *.json
