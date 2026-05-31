@@ -1,0 +1,17 @@
+
+Shelf Image
+    |
+YOLOv8 Detection
+    |
+Product Crops
+    |
++----------------------+
+| CLIP Classification |
+| EasyOCR Extraction  |
++----------------------+
+    |
+Shelf Space Estimation
+    |
+Business Metrics
+    |
+Visualization + JSON
